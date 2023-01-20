@@ -1,0 +1,21 @@
+
+#login-btn, #purchase-btn{
+    color: #FFFFFF;
+    background-color: #E76F51;
+    Width: 160px;
+    Height: 64px;
+}
+.carousel{
+    background-color: rgba(231, 111, 81, 0.1);
+    border-radius: 5px;
+}
+#prev-icon, #next-icon{
+    background-color: #E76F51;
+}
+#hb-desc{
+    color: #E76F51;
+}
+.hr-primary{
+    width: 10%;
+    color: #E76F51;
+}
